@@ -4,7 +4,7 @@ const StreamlitEmbed = () => {
   return (
     <div className="w-full h-screen">
       <iframe
-        src="http://localhost:8501"
+        src="https://edu-ai-6tw9.onrender.com/"
         className="w-full h-full"
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
